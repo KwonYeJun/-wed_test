@@ -1,0 +1,26 @@
+*{
+  
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+ 
+
+}
+#container{
+  position: relative;
+}
+
+
+header{
+  background-color: #2196F3;
+}
+
+main{
+  background-color: #2196F3;
+
+}
+footer{
+background-color: #333333;
+
+}
